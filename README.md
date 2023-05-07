@@ -1,0 +1,7 @@
+Download Link: https://assignmentchef.com/product/solved-net-design
+<br>
+Think about and describe a scenario whereby you are the individual responsible for the design of a network for a large organization. This network would entail connectivity between sites in the US, Europe, Africa and Japan as well as within regions. Specify the remote-access and WAN technologies you would employ. Explain how you would choose the necessary topology, routers, switches, media, etc. Discuss reasons for choosing those technologies and explain the organizational requirements that would be addressed.
+
+In your own words, post a substantive response to the Discussion Board question(s) and comment on other postings. Your response should address the DB question(s) and move the conversation forward. You will be graded on the quality of your postings, including mastery of the concept as well as critical thinking. If asked for your opinion, do not simply state that it is a good or bad idea; elaborate on your reasons and argument. Include enough detail to substantiate your thinking as well as your position on the questions or comments.
+
+Define the function and implementation of network devices.Determine the appropriate context for using various network media.Explain how various network standards apply to different areas of networking.Describe the advantages, disadvantages, scalability issues, and applicability of standard network topologies.Develop a network design document based on the analysis of appropriate data.
